@@ -15,8 +15,8 @@ __author__ = 'Philip (haxrbyte) Pieterse'
 __email__ = 'ppieterse@trustwave.com'
 __git__ = 'https://github.com/SpiderLabs/scavenger.git'
 __twitter__ = 'http://twitter.com/haxrbyte'
-__version__ = 'v1.0'
-__license__ = 'GPLv3.0'
+__version__ = '1.0'
+__license__ = 'MIT'
 
 from os import setsid, geteuid, killpg, path, mkdir, chdir
 from sys import argv, exit
