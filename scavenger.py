@@ -12,8 +12,8 @@
 # details (http://www.gnu.org/licenses/gpl.txt).
 
 __author__ = 'Philip (haxrbyte) Pieterse'
-__email__ = 'ppieterse@trustwave.com'
-__git__ = 'https://github.com/SpiderLabs/scavenger.git'
+__email__ = 'philip@haxrbyte.org'
+__git__ = 'https://github.com/haxrbyte/scavenger.git'
 __twitter__ = 'http://twitter.com/haxrbyte'
 __version__ = '1.0'
 __license__ = 'MIT'
