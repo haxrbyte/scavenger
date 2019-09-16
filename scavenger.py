@@ -684,7 +684,7 @@ def main():
     """)
 
     description = (
-         f"scavenger.py v1.0 by Philip Pieterse (@haxrbyte) [https://github.com/SpiderLabs/scavenger]\n"
+         f"scavenger.py 1.0 by Philip Pieterse (@haxrbyte) [https://github.com/haxrbyte/scavenger]\n"
          f"{banner}\n"
         f"scavenger => definition [noun]: a person who searches for and collects discarded items.\n\n"
          f"              *** Powered and Inspired by ***\n\n"
@@ -761,7 +761,7 @@ def main():
 
     scav_queue = Queue()
 
-    print(f"\nscavenger.py v1.0 by Philip Pieterse (@haxrbyte) [https://github.com/SpiderLabs/scavenger]")
+    print(f"\nscavenger.py 1.0 by Philip Pieterse (@haxrbyte) [https://github.com/haxrbyte/scavenger]")
     print(f"{banner}")
 
     printing('10.0.0.100', f"*** SCAVENGING STARTED ***\n", color='gray')
@@ -1022,7 +1022,7 @@ def main():
   </style>
 </head>
 <body>
-    <p><b><code><p class='a'>scavenger.py v1.0 by Philip Pieterse (@haxrbyte) [https://github.com/SpiderLabs/scavenger]
+    <p><b><code><p class='a'>scavenger.py 1.0 by Philip Pieterse (@haxrbyte) [https://github.com/haxrbyte/scavenger]
     ***************************************************
     *  ___  ___ __ ___   _____ _ __   __ _  ___ _ __  *
     * / __|/ __/ _` \ \ / / _ \ '_ \ / _` |/ _ \ '__| *
@@ -1064,7 +1064,7 @@ def main():
         html_file_builder.write(html_header)
         for ip, dc_check, mh_check, sh_check, lh_check, nh_check, cc_check, t2_check, laz_b_check, laz_s_check, runas, host_name, os_name, win_dir, sys_dir, domain_name, nr_net in html_list_info:
             with open(f"results/{ip}-scavenger-smb.scav", 'w') as text_file_builder:
-                text_file_builder.write("scavenger.py v1.0 by Philip Pieterse (@haxrbyte) [https://github.com/SpiderLabs/scavenger]")
+                text_file_builder.write("scavenger.py 1.0 by Philip Pieterse (@haxrbyte) [https://github.com/haxrbyte/scavenger]")
                 banner_text = """
         ***************************************************
         *  ___  ___ __ ___   _____ _ __   __ _  ___ _ __  *
